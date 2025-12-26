@@ -21,14 +21,14 @@ I'm a **3rd-year engineering student** passionate about building cool tech proje
 ---
 
 ### 🌱 Currently Working On
-- Building my **portfolio website**
+- Learning Generative Ai
 - Creating open-source projects
 - Finding an internship (Target: 3 months!)
 
 ---
 
 ### 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/itsokAsh) *(coming soon)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/itsokAsh) 
 - 📬 Email: ashezz0512@gmail.com
 - 🌐 Portfolio: [itsokAsh.github.io](https://itsokAsh.github.io)
 
