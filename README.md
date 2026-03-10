@@ -1,22 +1,36 @@
 ### 👋 Hello there, I'm Ashish Kumar!
 
-I'm a **3rd-year engineering student** passionate about building cool tech projects, mastering DSA, and stepping into the world of **AI agents** and **Web Development**.
+I'm a **3rd-year engineering student** passionate developer and data enthusiast focused on building scalable web applications and AI-driven analytics tools.
 
 ---
 
-### 🚀 What I'm Learning
-- 📘 Data Structures & Algorithms (C++ & Python)
-- 🌐 Web Development (HTML, CSS, JS, Node.js)
-- 🧠 AI Agents (just getting started!)
-- 🔧 Git, GitHub & Project Deployment
+### 🚀 Technical Skills
+- Languages: Python, C/C++, SQL (MySQL, PostgreSQL), NoSQL (MongoDB), JavaScript, HTML/CSS
+- Frameworks & Back-end: React, Node.js, FastAPI, Flask
+- Data Science & ML: XGBoost, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- Developer Tools: Git, Docker, Google Cloud Platform (GCP), VSCode, PyCharm
 
 ---
 
 ### 🛠️ Projects
-- 🔗 Smart Study Group Matcher (Node.js + NoSQL)
-- 🔍 BiasGuard – Detect AI bias using NLP
-- ❤️ Heart Disease Predictor (with counterfactual explanations)
-- 💻 More coming soon...
+- Gitlytics | 
+  Python, Flask, React, PostgreSQL, Docker 
+        Architected a containerized analytics platform to process and visualize GitHub developer metrics.
+
+        Engineered secure OAuth 2.0 authentication and managed session states using SQLAlchemy ORM.
+
+        Optimized performance by leveraging Celery and Redis for asynchronous background tasks.
+
+        Designed an interactive dashboard using Recharts for dynamic data rendering.
+
+ 
+- HeartXAI | 
+  Python, XGBoost, Scikit-learn, MERN Stack 
+        Developed an end-to-end web app for heart disease risk prediction with 87-90% accuracy.
+
+        Integrated a full ML-to-UI pipeline, reducing prediction latency by 30%.
+
+        Implemented counterfactual explanations to improve model interpretability and user trust by 40%.
 
 ---
 
