@@ -1,6 +1,6 @@
 ### 👋 Hello there, I'm Ashish Kumar!
 
-I'm a **3rd-year engineering student**,passionate developer and data enthusiast focused on building scalable web applications and AI-driven analytics tools.
+I'm a **3rd-year engineering student**, passionate developer and data enthusiast focused on building scalable web applications and AI-driven analytics tools.
 
 ---
 
