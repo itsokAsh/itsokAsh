@@ -1,11 +1,11 @@
 <!-- ========== ANIMATED HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=220&section=header&text=Ashish%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Data%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=56&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=220&section=header&text=Ashish%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Data%20Enthusiast%20%E2%80%A2%20Footballer&descAlignY=56&descSize=18" width="100%"/>
 </div>
 
 <!-- ========== TYPING ANIMATION ========== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=3rd-year+Engineering+Student+%40+VTU;Building+scalable+web+applications;Crafting+AI-driven+analytics+tools;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=3rd-year+Engineering+Student+%40+VTU;Building+scalable+web+applications;Crafting+AI-driven+analytics+tools;Discipline+on+the+pitch%2C+precision+in+the+code" alt="Typing SVG" />
 </div>
 
 <!-- ========== SOCIAL + VIEWS ========== -->
@@ -19,9 +19,9 @@
 
 <br/>
 
-### 👋 Hello there, I'm Ashish Kumar!
+### ⚽ Hello there, I'm Ashish Kumar!
 
-I'm a **3rd-year engineering student**, passionate developer and data enthusiast focused on building scalable web applications and AI-driven analytics tools.
+I'm a **3rd-year engineering student**, passionate developer and data enthusiast focused on building scalable web applications and AI-driven analytics tools. Off the keyboard, I'm a footballer — the same teamwork, discipline, and read-the-whole-field thinking I bring to the pitch is exactly how I approach engineering problems.
 
 ---
 
@@ -112,6 +112,12 @@ I'm a **3rd-year engineering student**, passionate developer and data enthusiast
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsokAsh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%"/>
 </div>
+
+---
+
+### ⚽ Beyond the Code
+
+When I'm not building, I'm on the football pitch. Sport taught me the habits that show up in my work every day — **teamwork**, **composure under pressure**, **discipline**, and the patience to keep improving rep after rep. Whether it's a 90-minute match or a hard debugging session, I play the full game.
 
 ---
 
