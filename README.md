@@ -59,12 +59,12 @@ I'm a **3rd-year engineering student**, passionate developer and data enthusiast
 <td width="50%" valign="top">
 
 #### 📊 Gitlytics
-`Python` `Flask` `React` `PostgreSQL` `Docker`
+`Python` `Flask` `PostgreSQL` `Redis` `Celery` `Docker` `GitHub OAuth 2.0` `React`
 
-- Architected a containerized analytics platform to process and visualize GitHub developer metrics.
-- Engineered secure OAuth 2.0 authentication and managed session states using SQLAlchemy ORM.
-- Optimized performance by leveraging Celery and Redis for asynchronous background tasks.
-- Designed an interactive dashboard using Recharts for dynamic data rendering.
+-Built a 5-container Docker Compose stack (Flask API, Celery worker, PostgreSQL, Redis, React) to sync and analyze GitHub developer metrics at scale.
+-Implemented OAuth 2.0 with CSRF state validation, session-based auth, and Fernet-encrypted token storage for per-user data isolation.
+-Designed REST APIs returning HTTP 202 + task_id; offloaded GitHub repo/commit fetching to Celery workers via Redis message broker and result backend.
+-Modeled PostgreSQL schema (users, commits) with indexed columns and Alembic migrations; exposed metrics through a React dashboard with 2s status polling and Recharts visualization
 
 </td>
 <td width="50%" valign="top">
