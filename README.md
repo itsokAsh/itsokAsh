@@ -55,31 +55,46 @@ I'm a **3rd-year engineering student**, passionate developer and data enthusiast
 ### 🛠️ Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-#### 📊 Gitlytics
-`Python` `Flask` `PostgreSQL` `Redis` `Celery` `Docker` `GitHub OAuth 2.0` `React`
+<h3>📊 Gitlytics</h3>
 
--Built a 5-container Docker Compose stack (Flask API, Celery worker, PostgreSQL, Redis, React) to sync and analyze GitHub developer metrics at scale.
--Implemented OAuth 2.0 with CSRF state validation, session-based auth, and Fernet-encrypted token storage for per-user data isolation.
--Designed REST APIs returning HTTP 202 + task_id; offloaded GitHub repo/commit fetching to Celery workers via Redis message broker and result backend.
--Modeled PostgreSQL schema (users, commits) with indexed columns and Alembic migrations; exposed metrics through a React dashboard with 2s status polling and Recharts visualization
+<code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Docker</code> <code>GitHub OAuth 2.0</code> <code>React</code>
 
-</td>
-<td width="50%" valign="top">
+<br><br>
 
-#### ❤️ HeartXAI
-`Python` `XGBoost` `Scikit-learn` `MERN Stack`
+<ul>
+<li>Built a 5-container Docker Compose stack (Flask API, Celery worker, PostgreSQL, Redis, React) to sync and analyze GitHub developer metrics at scale.</li>
 
-- Developed an end-to-end web app for heart disease risk prediction with 87–90% accuracy.
-- Integrated a full ML-to-UI pipeline, reducing prediction latency by 30%.
-- Implemented counterfactual explanations to improve model interpretability and user trust by 40%.
+<li>Implemented OAuth 2.0 with CSRF state validation, session-based authentication, and Fernet-encrypted token storage for per-user data isolation.</li>
+
+<li>Designed REST APIs returning HTTP 202 + task_id; offloaded GitHub repo and commit fetching to Celery workers via Redis message broker and result backend.</li>
+
+<li>Modeled PostgreSQL schema (users, commits) with indexed columns and Alembic migrations; exposed metrics through a React dashboard with 2-second status polling and Recharts visualizations.</li>
+</ul>
 
 </td>
-</tr>
+
+<td width="50%" valign="top">
+
+<h3>❤️ HeartXAI</h3>
+
+<code>Python</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>MERN Stack</code>
+
+<br><br>
+
+<ul>
+<li>Developed an end-to-end web application for heart disease risk prediction with 87-90% accuracy.</li>
+
+<li>Integrated a complete ML-to-UI pipeline, reducing prediction latency by 30%.</li>
+
+<li>Implemented counterfactual explanations to improve model interpretability and increase user trust by 40%.</li>
+</ul>
+
+</td>
+  </tr>
 </table>
-
 ---
 
 ### 🌱 Currently Working On
