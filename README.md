@@ -58,7 +58,7 @@ I'm a **3rd-year engineering student**, passionate developer and data enthusiast
   <tr>
     <td width="50%" valign="top">
 
-<h3>📊 Gitlytics</h3>
+<h3><a href="https://github.com/itsokAsh/Gitlytics" target="_blank" style="text-decoration: none; color: inherit;">📊 🔗 Gitlytics</a></h3>
 
 <code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Docker</code> <code>GitHub OAuth 2.0</code> <code>React</code>
 
@@ -78,7 +78,7 @@ I'm a **3rd-year engineering student**, passionate developer and data enthusiast
 
 <td width="50%" valign="top">
 
-<h3>❤️ HeartXAI</h3>
+<h3><a href="https://github.com/itsokAsh/heart-risk-prediction" target="_blank" style="text-decoration: none; color: inherit;">❤️ 🔗 HeartXAI</a></h3>
 
 <code>Python</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>MERN Stack</code>
 
@@ -95,7 +95,6 @@ I'm a **3rd-year engineering student**, passionate developer and data enthusiast
 </td>
   </tr>
 </table>
----
 
 ### 🌱 Currently Working On
 
