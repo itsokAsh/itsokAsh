@@ -164,25 +164,8 @@ Independently scoped and delivered a full-stack claims management platform end-t
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ashish--kumar-6a0dad?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AjzaoUyyto/)
 
 </div>
-## 🟣 GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itsokAsh&theme=juicyfresh&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsokAsh&theme=react-dark&bg_color=0d0221&color=a277ff&line=8a2be2&point=e0d4ff&hide_border=true" width="100%" />
-
-</div>
-
----
 
 ## 🟣 Contribution Snake
 
