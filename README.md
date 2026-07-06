@@ -162,29 +162,8 @@ Independently scoped and delivered a full-stack claims management platform end-t
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ashish--kumar-6a0dad?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AjzaoUyyto/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4b0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8a2be2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-1a0033?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
 
 </div>
-
----
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsokAsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a277ff&icon_color=8a2be2&text_color=e0d4ff&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=itsokAsh&theme=tokyonight&hide_border=true&background=0d0221&ring=a277ff&fire=8a2be2&currStreakLabel=e0d4ff" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsokAsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a277ff&text_color=e0d4ff" width="49%" />
-
-</div>
-
----
-
 ## 🟣 GitHub Trophies
 
 <div align="center">
