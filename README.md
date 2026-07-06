@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:6a0dad&height=280&section=header&text=Ashish%20Kumar&fontSize=60&fontColor=e0d4ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/itsokAsh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+AI%2FML-powered+products;Turning+ideas+into+production-grade+software;Open+to+SDE+%2F+AI+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+AI%2FML-powered+products; Turning+ideas+into+production-grade+software;Open+to+SDE+%2F+Backend+roles" alt="Typing SVG" />
 </a>
 
 <br/>
