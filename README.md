@@ -100,7 +100,7 @@ Full-stack analytics platform that tracks GitHub commit patterns across multiple
 | **Performance** | Reduced API response time by **99%** (20s → 200ms) via async Celery workers |
 | **Security** | GitHub OAuth 2.0, Fernet-encrypted tokens, CSRF protection, 24-hour session timeouts |
 | **Impact** | 40% faster query performance via PostgreSQL composite indexing; sub-2s dashboard loads |
-| **Repository** | [github.com/itsokAsh](https://github.com/itsokAsh) |
+| **Repository** | [Gitlytics](https://github.com/itsokAsh/Gitlytics) |
 
 Architected with a fully containerized 5-service Docker Compose stack (React, Flask, PostgreSQL, Redis, Celery), enabling one-command deployment across development and production environments. Background data ingestion via Celery workers eliminates blocking HTTP calls during GitHub data syncs, forming the backbone of the platform's real-time responsiveness.
 
@@ -119,7 +119,7 @@ Clinical decision-support platform combining an XGBoost classifier with a real-t
 | **Performance** | Achieved **ROC-AUC 0.923** and **80.3% accuracy** on held-out test data |
 | **Security** | Medically validated input constraints preventing invalid clinical data submission |
 | **Impact** | Custom risk-tier mapping converts raw probabilities into 4 actionable clinical categories |
-| **Repository** | [GitHub](https://github.com/itsokAsh) · [Live Demo](https://github.com/itsokAsh) |
+| **Repository** | [GitHub](https://github.com/itsokAsh/heart-risk-prediction) · [Live Demo]([https://github.com/itsokAh](https://heartguard-frontend-g5wefolyc-ashcr2004-5869s-projects.vercel.app/) |
 
 Delivers a clinical-grade UI with real-time Plotly risk visualizations and rule-based recommendations across lifestyle, diet, exercise, and immediate-action categories. Includes automated PDF report generation via ReportLab for clinical documentation and patient handoff.
 
