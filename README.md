@@ -1,158 +1,266 @@
-<!-- ========== ANIMATED HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=220&section=header&text=Ashish%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Data%20Enthusiast%20%E2%80%A2%20Footballer&descAlignY=56&descSize=18" width="100%"/>
-</div>
 
-<!-- ========== TYPING ANIMATION ========== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=3rd-year+Engineering+Student+%40+VTU;Building+scalable+web+applications;Crafting+AI-driven+analytics+tools;Discipline+on+the+pitch%2C+precision+in+the+code" alt="Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:6a0dad&height=280&section=header&text=Ashish%20Kumar&fontSize=60&fontColor=e0d4ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- ========== SOCIAL + VIEWS ========== -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/itsokash" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/AjzaoUyyto" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:ashezz0512@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://itsokAsh.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=itsokAsh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<a href="https://github.com/itsokAsh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems;Engineering+AI%2FML-powered+products;Turning+ideas+into+production-grade+software;Open+to+SDE+%2F+AI+Engineer+roles" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Education](https://img.shields.io/badge/Visvesvaraya%20Technological%20University-B.E.%20Information%20Science-6a0dad?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-4b0082?style=flat-square&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/itsokAsh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsokash)
+[![Email](https://img.shields.io/badge/Email-8a2be2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashezz0512@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsokAsh)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=itsokAsh&label=Profile%20Views&color=6a0dad&style=flat-square)
+![Followers](https://img.shields.io/github/followers/itsokAsh?label=Followers&style=flat-square&color=4b0082)
+![Stars](https://img.shields.io/github/stars/itsokAsh?label=Stars&style=flat-square&color=8a2be2)
+
 </div>
 
 <br/>
 
-### ⚽ Hello there, I'm Ashish Kumar!
+---
 
-I'm a **3rd-year engineering student**, passionate developer and data enthusiast focused on building scalable web applications and AI-driven analytics tools. Off the keyboard, I'm a footballer — the same teamwork, discipline, and read-the-whole-field thinking I bring to the pitch is exactly how I approach engineering problems.
+## 🟣 About Me
+
+```yaml
+name: Ashish Kumar
+role: Software Engineer | Full Stack Developer | AI/ML Enthusiast
+education: B.E. Information Science, VTU (2023 - 2027)
+focus: Building production-grade, scalable, and intelligent software systems
+philosophy: Ship fast, engineer for scale, design for the user
+```
+
+I'm a full-stack software engineer with hands-on experience architecting **claims management platforms**, **developer analytics tools**, and **ML-powered clinical systems**. My work spans the entire stack — from designing REST APIs and relational schemas to building responsive React interfaces and integrating machine learning models into real-time production workflows.
+
+I approach engineering with a **product mindset**: performance, security, and scalability aren't afterthoughts, they're design constraints from day one. Whether it's reducing API latency by 99% through async task queues or enforcing role-based access control across multi-tier systems, I care about building software that behaves predictably under real-world load.
+
+**🎯 Open To:** Software Engineer Internships/New Grad Roles · AI/ML Engineering · Full Stack Development · Open Source Collaboration
 
 ---
 
-### 🚀 Technical Skills
-
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,mysql,html,css&theme=dark" />
-</p>
-
-<p align="center"><b>Frameworks & Back-end</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask&theme=dark" />
-</p>
-
-<p align="center"><b>Data Science & ML</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-<p align="center"><b>Developer Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,gcp,vscode,pycharm&theme=dark" />
-</p>
-
----
-
-### 🛠️ Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-<h3><a href="https://github.com/itsokAsh/Gitlytics" target="_blank" style="text-decoration: none; color: inherit;">📊 🔗 Gitlytics</a></h3>
-
-<code>Python</code> <code>Flask</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>Docker</code> <code>GitHub OAuth 2.0</code> <code>React</code>
-
-<br><br>
-
-<ul>
-<li>Built a 5-container Docker Compose stack (Flask API, Celery worker, PostgreSQL, Redis, React) to sync and analyze GitHub developer metrics at scale.</li>
-
-<li>Implemented OAuth 2.0 with CSRF state validation, session-based authentication, and Fernet-encrypted token storage for per-user data isolation.</li>
-
-<li>Designed REST APIs returning HTTP 202 + task_id; offloaded GitHub repo and commit fetching to Celery workers via Redis message broker and result backend.</li>
-
-<li>Modeled PostgreSQL schema (users, commits) with indexed columns and Alembic migrations; exposed metrics through a React dashboard with 2-second status polling and Recharts visualizations.</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/itsokAsh/heart-risk-prediction" target="_blank" style="text-decoration: none; color: inherit;">❤️ 🔗 HeartXAI</a></h3>
-
-<code>Python</code> <code>XGBoost</code> <code>Scikit-learn</code> <code>MERN Stack</code>
-
-<br><br>
-
-<ul>
-<li>Developed an end-to-end web application for heart disease risk prediction with 87-90% accuracy.</li>
-
-<li>Integrated a complete ML-to-UI pipeline, reducing prediction latency by 30%.</li>
-
-<li>Implemented counterfactual explanations to improve model interpretability and increase user trust by 40%.</li>
-</ul>
-
-</td>
-  </tr>
-</table>
-
-### 🌱 Currently Working On
-
-- 🤖 Learning Generative AI
-- 🌍 Creating open-source projects
-- 🎯 Finding an internship (Target: 3 months!)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsokAsh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=C9D1D9" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsokAsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsokAsh&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsokAsh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=EC4899&point=ffffff&area=true&area_color=7C3AED" width="98%"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsokAsh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%"/>
-</div>
-
----
-
-### ⚽ Beyond the Code
-
-When I'm not building, I'm on the football pitch. Sport taught me the habits that show up in my work every day — **teamwork**, **composure under pressure**, **discipline**, and the patience to keep improving rep after rep. Whether it's a 90-minute match or a hard debugging session, I play the full game.
-
----
-
-### 📫 Let's Connect
+## 🟣 Tech Stack
 
 <div align="center">
 
-I'm open to **internship and SDE opportunities** — my inbox is always open!
+**Languages**
 
-<a href="https://www.linkedin.com/in/itsokash" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ashezz0512@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,redux&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,redis&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,aws,linux&theme=dark" />
 
 </div>
 
 ---
 
+## 🟣 Backend Engineering Expertise
+
 <div align="center">
-  <i>⭐️ "The best way to learn is to build. Let's grow together!"</i>
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **API Architecture** | ⭐⭐⭐⭐☆ | REST API design, Express/FastAPI/Flask, endpoint scoping for multi-tier systems |
+| **Authentication & Security** | ⭐⭐⭐⭐☆ | JWT verification, role-based access control, OAuth 2.0, CSRF protection, token encryption |
+| **Database Engineering** | ⭐⭐⭐⭐☆ | PostgreSQL, MongoDB, MySQL, composite indexing, schema design, query optimization |
+| **Asynchronous Systems** | ⭐⭐⭐⭐☆ | Celery workers, background job processing, Redis-backed task queues |
+| **Deployment & Infra** | ⭐⭐⭐☆☆ | Docker Compose multi-service orchestration, environment consistency, containerized workflows |
+
 </div>
 
-<!-- ========== ANIMATED FOOTER ========== -->
+---
+
+## 🟣 Featured Projects
+
+<details open>
+<summary><b>🔹 Gitlytics — Developer Productivity Intelligence Platform</b></summary>
+<br/>
+
+Full-stack analytics platform that tracks GitHub commit patterns across multiple repositories, surfacing productivity trends through automated, real-time data visualizations.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python · Flask · React · PostgreSQL · Docker · Redis · Celery · GitHub OAuth 2.0 |
+| **Scale** | Tracks commit activity across 10+ repositories with 5 dedicated analytics dashboards |
+| **Performance** | Reduced API response time by **99%** (20s → 200ms) via async Celery workers |
+| **Security** | GitHub OAuth 2.0, Fernet-encrypted tokens, CSRF protection, 24-hour session timeouts |
+| **Impact** | 40% faster query performance via PostgreSQL composite indexing; sub-2s dashboard loads |
+| **Repository** | [github.com/itsokAsh](https://github.com/itsokAsh) |
+
+Architected with a fully containerized 5-service Docker Compose stack (React, Flask, PostgreSQL, Redis, Celery), enabling one-command deployment across development and production environments. Background data ingestion via Celery workers eliminates blocking HTTP calls during GitHub data syncs, forming the backbone of the platform's real-time responsiveness.
+
+</details>
+
+<details>
+<summary><b>🔹 HeartGuard — ML-Powered Cardiac Risk Assessment Platform</b></summary>
+<br/>
+
+Clinical decision-support platform combining an XGBoost classifier with a real-time React interface to deliver actionable cardiac risk assessments.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python · XGBoost · Scikit-Learn · FastAPI · React · Plotly · ReportLab · Pandas |
+| **Scale** | Trained on the UCI Heart Disease dataset (302 samples, 13 features) |
+| **Performance** | Achieved **ROC-AUC 0.923** and **80.3% accuracy** on held-out test data |
+| **Security** | Medically validated input constraints preventing invalid clinical data submission |
+| **Impact** | Custom risk-tier mapping converts raw probabilities into 4 actionable clinical categories |
+| **Repository** | [GitHub](https://github.com/itsokAsh) · [Live Demo](https://github.com/itsokAsh) |
+
+Delivers a clinical-grade UI with real-time Plotly risk visualizations and rule-based recommendations across lifestyle, diet, exercise, and immediate-action categories. Includes automated PDF report generation via ReportLab for clinical documentation and patient handoff.
+
+</details>
+
+---
+
+## 🟣 Experience
+
+**Full Stack Developer Intern** · NeoSkillz
+`Jan 2026 — Mar 2026`
+
+Independently scoped and delivered a full-stack claims management platform end-to-end within a 3-month internship timeline, integrating a teammate's ML microservice into a production-ready frontend.
+
+- Architected a claims management platform using **React, Node.js, and Express**, shipping **12 REST API endpoints** covering intake, risk scoring, and automated flagging
+- Integrated a **Python/Scikit-Learn** risk-scoring microservice (Flask) into the React frontend, delivering real-time scores in **under 2 seconds** per submitted claim
+- Enforced **role-based access control** across three user tiers (admin, coder, billing staff) via middleware-level **JWT verification** on every protected route
+- Owned the complete frontend-backend integration lifecycle from architecture to deployment
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` `Flask` `Scikit-Learn`
+
+---
+
+## 🟣 Achievements
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,16,12&height=120&section=footer" width="100%"/>
+
+| Recognition | Details |
+|---|---|
+| 🏆 Full Stack Ownership | Independently delivered a production claims platform within a 3-month internship |
+| 🏆 Performance Engineering | Achieved a 99% API latency reduction on a real-world analytics platform |
+| 🏆 ML Model Accuracy | Delivered a cardiac risk classifier with 0.923 ROC-AUC on clinical data |
+
+</div>
+
+---
+
+## 🟣 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ashish--kumar-6a0dad?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AjzaoUyyto/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4b0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8a2be2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-1a0033?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
+
+</div>
+
+---
+
+## 🟣 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsokAsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a277ff&icon_color=8a2be2&text_color=e0d4ff&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=itsokAsh&theme=tokyonight&hide_border=true&background=0d0221&ring=a277ff&fire=8a2be2&currStreakLabel=e0d4ff" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsokAsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a277ff&text_color=e0d4ff" width="49%" />
+
+</div>
+
+---
+
+## 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsokAsh&theme=juicyfresh&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## 🟣 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsokAsh&theme=react-dark&bg_color=0d0221&color=a277ff&line=8a2be2&point=e0d4ff&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/itsokAsh/itsokAsh/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+> _Requires the [snake animation GitHub Action](https://github.com/Platane/snk) enabled on your profile repository._
+
+---
+
+## 🟣 Current Focus
+
+```yaml
+Learning:
+  - Advanced System Design & Distributed Architectures
+  - Deep Learning fundamentals beyond classical ML
+  - Cloud-native deployment patterns (AWS)
+
+Building:
+  - Gitlytics: expanding analytics coverage & team dashboards
+  - HeartGuard: extending clinical model interpretability
+
+Exploring:
+  - LLM-powered application engineering
+  - Event-driven microservice architectures
+
+Open To:
+  - Software Engineering Internships / New Grad Roles
+  - AI/ML Engineering Opportunities
+  - Open Source Collaboration
+```
+
+---
+
+## 🟣 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/ashezz0512@gmail.com-8a2be2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashezz0512@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/itsokash-4b0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsokash)
+[![GitHub](https://img.shields.io/badge/itsokAsh-1a0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsokAsh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/itsokAsh)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+_"Code is the closest thing we have to magic — write it like someone's future depends on it."_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:4b0082,100:1a0033&height=150&section=footer" width="100%"/>
+
 </div>
