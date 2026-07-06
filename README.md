@@ -213,9 +213,13 @@ Independently scoped and delivered a full-stack claims management platform end-t
 
 </div>
 
-> _Requires the [snake animation GitHub Action](https://github.com/Platane/snk) enabled on your profile repository._
-
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsokAsh/itsokAsh/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsokAsh/itsokAsh/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/itsokAsh/itsokAsh/output/github-snake.svg">
+  </picture>
+</p>
 
 ## 🟣 Current Focus
 
