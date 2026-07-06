@@ -207,12 +207,6 @@ Independently scoped and delivered a full-stack claims management platform end-t
 
 ## 🟣 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/itsokAsh/itsokAsh/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsokAsh/itsokAsh/output/github-snake-dark.svg">
