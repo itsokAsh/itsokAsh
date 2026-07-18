@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/itsokAsh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white)]([https://github.com/itsokAsh](https://valorant-portfolio-showcase--ashezz0512.replit.app))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsokash)
 [![Email](https://img.shields.io/badge/Email-8a2be2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashezz0512@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsokAsh)
