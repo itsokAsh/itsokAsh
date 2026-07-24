@@ -85,46 +85,6 @@ I approach engineering with a **product mindset**: performance, security, and sc
 
 ---
 
-## 🟣 Featured Projects
-
-<details open>
-<summary><b>🔹 Gitlytics — Developer Productivity Intelligence Platform</b></summary>
-<br/>
-
-Full-stack analytics platform that tracks GitHub commit patterns across multiple repositories, surfacing productivity trends through automated, real-time data visualizations.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python · Flask · React · PostgreSQL · Docker · Redis · Celery · GitHub OAuth 2.0 |
-| **Scale** | Tracks commit activity across 10+ repositories with 5 dedicated analytics dashboards |
-| **Performance** | Reduced API response time by **99%** (20s → 200ms) via async Celery workers |
-| **Security** | GitHub OAuth 2.0, Fernet-encrypted tokens, CSRF protection, 24-hour session timeouts |
-| **Impact** | 40% faster query performance via PostgreSQL composite indexing; sub-2s dashboard loads |
-| **Repository** | [Gitlytics](https://github.com/itsokAsh/Gitlytics) |
-
-Architected with a fully containerized 5-service Docker Compose stack (React, Flask, PostgreSQL, Redis, Celery), enabling one-command deployment across development and production environments. Background data ingestion via Celery workers eliminates blocking HTTP calls during GitHub data syncs, forming the backbone of the platform's real-time responsiveness.
-
-</details>
-
-<details>
-<summary><b>🔹 HeartGuard — ML-Powered Cardiac Risk Assessment Platform</b></summary>
-<br/>
-
-Clinical decision-support platform combining an XGBoost classifier with a real-time React interface to deliver actionable cardiac risk assessments.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python · XGBoost · Scikit-Learn · FastAPI · React · Plotly · ReportLab · Pandas |
-| **Scale** | Trained on the UCI Heart Disease dataset (302 samples, 13 features) |
-| **Performance** | Achieved **ROC-AUC 0.923** and **80.3% accuracy** on held-out test data |
-| **Security** | Medically validated input constraints preventing invalid clinical data submission |
-| **Impact** | Custom risk-tier mapping converts raw probabilities into 4 actionable clinical categories |
-| **Repository** | [GitHub](https://github.com/itsokAsh/heart-risk-prediction) · [Live Demo]([https://github.com/itsokAh](https://heartguard-frontend-g5wefolyc-ashcr2004-5869s-projects.vercel.app/) |
-
-Delivers a clinical-grade UI with real-time Plotly risk visualizations and rule-based recommendations across lifestyle, diet, exercise, and immediate-action categories. Includes automated PDF report generation via ReportLab for clinical documentation and patient handoff.
-
-</details>
-
 ---
 
 ## 🟣 Experience
