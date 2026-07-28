@@ -41,7 +41,7 @@ I'm a full-stack software engineer with hands-on experience architecting **claim
 
 I approach engineering with a **product mindset**: performance, security, and scalability aren't afterthoughts, they're design constraints from day one. Whether it's reducing API latency by 99% through async task queues or enforcing role-based access control across multi-tier systems, I care about building software that behaves predictably under real-world load.
 
-**🎯 Open To:** Software Engineer Internships/New Grad Roles · AI/ML Engineering · Full Stack Development · Open Source Collaboration
+**🎯 Open To:** Software Engineer Internships/New Grad Roles · Backend · Full Stack Development · Open Source Collaboration
 
 ---
 
