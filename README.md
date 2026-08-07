@@ -161,14 +161,6 @@ Open To:
 
 ---
 
-## 🟣 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/ashezz0512@gmail.com-8a2be2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashezz0512@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/itsokash-4b0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsokash)
-[![GitHub](https://img.shields.io/badge/itsokAsh-1a0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsokAsh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/itsokAsh)
 
 </div>
 
